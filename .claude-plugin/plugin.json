@@ -1,7 +1,7 @@
 {
   "name": "harness-kit",
   "description": "ルールとスキルを、人が読んで直せる精密な形で作る手順と、git の差分で学ぶ詳細学習モードをまとめたプラグインです。",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "hatohato-lab"
   },
