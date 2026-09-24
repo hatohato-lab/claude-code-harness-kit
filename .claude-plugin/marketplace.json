@@ -1,0 +1,16 @@
+{
+  "name": "claude-code-harness-kit",
+  "owner": {
+    "name": "hatohato-lab"
+  },
+  "metadata": {
+    "description": "ルールとスキルを精密に作る手順と、git の差分で学ぶ詳細学習モードを配るマーケットプレイスです。"
+  },
+  "plugins": [
+    {
+      "name": "harness-kit",
+      "source": "./",
+      "description": "ルールを作る、スキルを作る、詳細学習モードと、セッションを確かめる4つのスキルです。"
+    }
+  ]
+}
